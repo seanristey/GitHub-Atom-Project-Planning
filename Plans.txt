@@ -1,3 +1,5 @@
 We plan to generate a handful of files with made up schedules on them.  Our
 scenario is that we are detectives and we are searching through these files in
 order to find out which suspect does not have an alibi listed on their schedule.
+
+There are 3 suspects and the murder happened at 12:14.
